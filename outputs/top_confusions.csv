@@ -1,0 +1,11 @@
+count,true_class,predicted_class
+228,deer,bird
+221,cat,dog
+184,truck,automobile
+175,cat,bird
+142,deer,horse
+140,ship,airplane
+133,frog,bird
+127,dog,cat
+101,dog,horse
+97,dog,bird
